@@ -1,0 +1,10 @@
+^D:\PROJECT\C++PROJECT\ASIO-LEARN\ASIO\ASIO-TEST\BUILD\CMAKEFILES\FB2210E727BB0DF4C7C57A4C6FDD57CC\GENERATE.STAMP.RULE
+setlocal
+D:\systemSoft\cmake\bin\cmake.exe -SD:/project/C++project/asio-learn/asio/asio-test -BD:/project/C++project/asio-learn/asio/asio-test/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/project/C++project/asio-learn/asio/asio-test/build/asio_test.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

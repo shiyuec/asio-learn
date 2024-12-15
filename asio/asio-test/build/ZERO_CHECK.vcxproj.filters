@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\project\C++project\asio-learn\asio\asio-test\build\CMakeFiles\fb2210e727bb0df4c7c57a4c6fdd57cc\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A04C3DF9-73CE-31D6-AC97-5981DBE7EF67}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

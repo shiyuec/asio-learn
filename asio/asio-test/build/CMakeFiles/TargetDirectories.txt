@@ -1,0 +1,3 @@
+D:/project/C++project/asio-learn/asio/asio-test/build/CMakeFiles/asio_test.dir
+D:/project/C++project/asio-learn/asio/asio-test/build/CMakeFiles/ALL_BUILD.dir
+D:/project/C++project/asio-learn/asio/asio-test/build/CMakeFiles/ZERO_CHECK.dir
